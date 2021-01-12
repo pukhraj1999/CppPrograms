@@ -61,8 +61,8 @@ class String{
         int len(){return size;}
 };
 int main(){
-    String a="Hi there! ";
-    String b="What's up?";
+    String a="Hey! ";
+    String b="How you doing?";
     String r;
     r=a+b;
     r.display();
